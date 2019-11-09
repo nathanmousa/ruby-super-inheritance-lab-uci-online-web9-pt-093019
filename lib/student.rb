@@ -1,5 +1,5 @@
 class Student
   def hello
-    put ""
+    put "Hey there! I'm so excited to learn stuff."
   end
 end
